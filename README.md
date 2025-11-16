@@ -1,4 +1,4 @@
-🧾 PACKET SNIFFER
+🧾 PACKET5
 
 🧠 Descrição Geral
 Um aplicativo simples que captura pacotes de rede em tempo real e exibe as informações — IP de origem, IP de destino, protocolo e tamanho — em uma interface gráfica amigável.
