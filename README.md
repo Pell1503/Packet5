@@ -6,8 +6,8 @@
 - João Guilherme (@JGuilhermeAires)
 - Bruno Braga (@Bruno-h-Braga)
 - Glauco Santos (@glaucosantos002)
-- Pedro Soares (Pell1503)
-- Hilton Rezende ()
+- Pedro Soares (@Pell1503)
+- Hilton Rezende (@)
 
 ## 🧑‍🏫 Disciplina
 Comunicação e Infraestrutura de redes - 2025.2
@@ -58,4 +58,5 @@ GitHub((https://github.com/Pell1503/Packet5)
 Repositório e versionamento de código
 
 ## Link de apresentação 
+- [📄 Clique aqui para acessar Apresentação no Canva](https://www.canva.com/design/DAG4-yLWeFs/t7P9lerVvyIhNSCPjCGYWA/edit?utm_content=DAG4-yLWeFs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
