@@ -7,6 +7,7 @@
 - Bruno Braga (@Bruno-h-Braga)
 - Glauco Santos (@glaucosantos002)
 - Pedro Soares (Pell1503)
+- Hilton Rezende ()
 
 ## 🧑‍🏫 Disciplina
 Comunicação e Infraestrutura de redes - 2025.2
@@ -56,5 +57,5 @@ Controle de versão
 GitHub((https://github.com/Pell1503/Packet5)
 Repositório e versionamento de código
 
-
+## Link de apresentação 
 
