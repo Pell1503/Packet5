@@ -3,7 +3,8 @@ import csv
 import psutil
 import tkinter as tk
 from tkinter import messagebox
-from threading import Thread 
+from threading import Thread # Mantido apenas para referências, mas AsyncSniffer é usado
+import time
 
 class PacketSnifferApp:
     def __init__(self, master):
